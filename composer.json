@@ -1,5 +1,5 @@
 {
-    "name": "krbotman/driver-facebook",
+    "name": "krdesigns/driver-facebook",
     "license": "MIT",
     "description": "Facebook Messenger driver for BotMan",
     "keywords": [
@@ -18,10 +18,10 @@
     ],
     "require": {
         "php": "^7.2",
-        "krbotman/botman": "2.6.0"
+        "krdesigns/botman": "2.6.0"
     },
     "require-dev": {
-        "krbotman/studio-addons": "1.6.0",
+        "krdesigns/studio-addons": "1.6.0",
         "phpunit/phpunit": "^7.0|^8.0",
         "illuminate/contracts": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0",
         "mockery/mockery": "dev-master",
